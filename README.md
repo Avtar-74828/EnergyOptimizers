@@ -11,9 +11,9 @@ This project analyzes HVAC efficiency, predicts **Peak Demand Reduction**, and e
 ---
 
 ## **Features**
-✔ **Data Preprocessing & Feature Engineering** (Energy Savings %, External Temperature, Building Occupancy)  
-✔ **Exploratory Data Analysis (EDA)** (Histograms, Correlation Heatmaps, Boxplots)  
-✔ **Statistical Tests** (T-Test, ANOVA) to compare HVAC performance  
+-  **Data Preprocessing & Feature Engineering** (Energy Savings %, External Temperature, Building Occupancy)  
+-  **Exploratory Data Analysis (EDA)** (Histograms, Correlation Heatmaps, Boxplots)  
+-  **Statistical Tests** (T-Test, ANOVA) to compare HVAC performance  
 
 ---
 
@@ -102,6 +102,6 @@ The **`HVAC_System_Type`** feature categorizes the different types of HVAC syste
 ---
 
 ## **Key Findings**
-**Smart Automated HVAC systems achieve higher Peak Demand Reduction** compared to Traditional HVAC systems.  
-**Regression analysis confirms that higher automation efficiency leads to better energy savings.**  
-**Feature engineering enhances model performance by including weather & occupancy data.**  
+- **Smart Automated HVAC systems achieve higher Peak Demand Reduction** compared to Traditional HVAC systems.  
+- **Regression analysis confirms that higher automation efficiency leads to better energy savings.**  
+- **Feature engineering enhances model performance by including weather & occupancy data.**  
