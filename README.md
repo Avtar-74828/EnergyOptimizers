@@ -1,9 +1,6 @@
 # 🌍🔋 **Energy Optimizers** 🚀  
 
-### **Optimizing HVAC Energy Efficiency Using Data Science & Machine Learning**  
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)](https://pandas.pydata.org/)  
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest%20%7C%20XGBoost-green)](https://scikit-learn.org/)  
+## **Optimizing HVAC Energy Efficiency Using Data Science & Machine Learning**  
 
 ---
 
@@ -17,9 +14,6 @@ This project analyzes HVAC efficiency, predicts **Peak Demand Reduction**, and e
 ✔ **Data Preprocessing & Feature Engineering** (Energy Savings %, External Temperature, Building Occupancy)  
 ✔ **Exploratory Data Analysis (EDA)** (Histograms, Correlation Heatmaps, Boxplots)  
 ✔ **Statistical Tests** (T-Test, ANOVA) to compare HVAC performance  
-✔ **Regression Analysis** to assess the impact of automation on energy efficiency  
-✔ **Machine Learning Models (Random Forest, XGBoost)** for predictive analysis  
-✔ **Actionable Insights** to improve HVAC efficiency in real-world scenarios  
 
 ---
 
@@ -91,4 +85,3 @@ The dataset includes **pre and post-automation HVAC energy consumption**, **exte
 **Smart Automated HVAC systems achieve higher Peak Demand Reduction** compared to Traditional HVAC systems.  
 **Regression analysis confirms that higher automation efficiency leads to better energy savings.**  
 **Feature engineering enhances model performance by including weather & occupancy data.**  
-**Machine Learning models (Random Forest & XGBoost) predict Peak Demand Reduction with high accuracy.**  
