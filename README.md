@@ -81,6 +81,26 @@ The dataset includes **pre and post-automation HVAC energy consumption**, **exte
 
 ---
 
+### **Understanding HVAC System Types**
+The **`HVAC_System_Type`** feature categorizes the different types of HVAC systems used in buildings. Each type affects energy consumption and efficiency differently:
+
+#### **1. Traditional HVAC**
+- **No automation** → Runs on a fixed schedule.
+- **High energy consumption** as it operates even when not needed.
+- **Examples:** Basic air conditioners, central HVAC with manual control.
+
+#### **2. Upgraded HVAC**
+- **Some automation** → Programmable thermostats, improved motors.
+- **Moderate energy savings** compared to traditional systems.
+- **Examples:** Smart thermostats like Nest, Ecobee.
+
+#### **3. Smart Automated HVAC**
+- **Fully automated** → Uses IoT sensors & AI to adapt dynamically.
+- **Highest energy efficiency** with real-time control.
+- **Examples:** AI-driven HVAC systems in modern buildings.
+
+---
+
 ## **Key Findings**
 **Smart Automated HVAC systems achieve higher Peak Demand Reduction** compared to Traditional HVAC systems.  
 **Regression analysis confirms that higher automation efficiency leads to better energy savings.**  
