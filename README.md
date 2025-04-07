@@ -20,14 +20,10 @@ This project analyzes HVAC efficiency, predicts **Peak Demand Reduction**, and e
 ## **Project Structure**
 ```
 EnergyOptimizers/
-│── data/                     # Contains the HVAC dataset
-│── notebooks/                 # Jupyter Notebooks for analysis
-│   │── Group6_EnergyOptimizers.ipynb
-│── models/                    # Trained Machine Learning models (if applicable)
-│── scripts/                   # Python scripts for processing data & training models
+│── data/                           # Contains the HVAC dataset
+│── Group6_EnergyOptimizers.ipynb   # Jupyter Notebooks for analysis
 │── README.md                   # Project Documentation
 │── requirements.txt            # Required Python libraries
-│── LICENSE                     # License information (if applicable)
 ```
 
 ---
