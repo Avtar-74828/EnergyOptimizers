@@ -13,7 +13,7 @@ This project analyzes HVAC efficiency, predicts **Peak Demand Reduction**, and e
 ## **Features**
 -  **Data Preprocessing & Feature Engineering** (Energy Savings %, External Temperature, Building Occupancy)  
 -  **Exploratory Data Analysis (EDA)** (Histograms, Correlation Heatmaps, Boxplots)  
--  **Statistical Tests** (T-Test, ANOVA) to compare HVAC performance  
+-  **Statistical Tests** (T-Test, ANOVA) to compare HVAC performance 
 
 ---
 
